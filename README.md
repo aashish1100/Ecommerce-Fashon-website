@@ -16,7 +16,7 @@ Hey there! Welcome to my E-commerce Fashion Website project. This site is a comp
 
 ### Responsive Design
 
-Creating a responsive design was one of my main goals. I wanted to ensure that the website looks good on any device, whether it's a phone, tablet, or desktop. This involved using media queries and flexible layouts.
+Creating a responsive design was one of my main goals. I wanted to ensure that the website looks good on any device, whether it's a phone, tablet, or desktop. This involved using media queries and flexible layouts
 
 ### Real-Time Data Updates
 
